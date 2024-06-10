@@ -1,0 +1,98 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+.zoho-section {
+    background: #0060b4;
+    padding: 120px 0 134px;
+    overflow: hidden;
+    display: block;
+}
+
+.zoho-section::after {
+    content: "";
+    background-image: url(https://www.talktoangel.com/images/newsletter/TTA-MGNHK00E/Pros%20and%20cons%20of%20husband%20wife%20working%20together_addiction%20_Inner.svg);
+    background-repeat: no-repeat;
+    background-size: 80%;
+    width: 75%;
+    opacity: 0.5;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    right: 0px;
+    background-position: right bottom;
+}
+
+.zoho-section h1 {
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.zoho-section h2 {
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.zoho-section p {
+    font-size: 1.2rem;
+}
+
+.zoho-section .btn {
+    font-size: 1rem;
+    padding: 1rem 2rem;
+}
+
+.count {
+    font-size: 45px;
+    width: 125px;
+}
+
+.content {
+    height: 300px;
+}
+
+.stat-data::after {
+    content: "";
+    background: #3b8ecc;
+    height: 1px;
+    width: 100%;
+    float: left;
+    margin-top: 6px;
+}
+
+/* section-2 */
+
+.core-values {
+    margin-top: 10vh;
+    background-color: #f8f9fa;
+    padding: 4rem 0;
+}
+
+.core-values .card {
+    background-color: transparent;
+}
+
+.core-values .card-body img {
+    width: 50px;
+    height: 50px;
+}
+
+.core-values .card-title {
+    font-size: 1.5rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.core-values .card-text {
+    font-size: 1rem;
+    color: #6c757d;
+}
+
+.core-values .btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+    padding: 0.75rem 1.25rem;
+    font-size: 1rem;
+}
